@@ -8,7 +8,7 @@ let resume = {
             startDate : 2016,
             endDate : 2019,
             employers : 'Ahead',
-            location : 'Chicago, Il, the USA',
+            location : 'San-Francisco, USA',
             info : function (){
               return this.title; this.employers; this.location;
             },
@@ -22,7 +22,7 @@ let resume = {
             endDate : 2020,
             employers : 'GetFoce',
             location : 'Chicago, Il, the USA',
-            info : function (){
+            info : function (){P
                return this.title; this.employers; this.location;
             },
             duration : function() {
